@@ -1,6 +1,6 @@
 class NPRIMENUMBER {
     public static void main(String[] args) {
-        int n = 10; // Number of prime numbers to print
+        int n = 10; 
         int num = 2;
         int countPrime = 0;
 
