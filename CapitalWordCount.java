@@ -22,6 +22,6 @@ count ++;
 }
 }
 
-System.out.println("number of word s starting with capital letter:" + count);
+System.out.println("number of words starting with capital letter:" + count);
 }
 }
