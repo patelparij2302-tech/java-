@@ -25,6 +25,6 @@ class stringpattern {
             System.out.println();
         }
 
-        s.close();
+        
     }
 }
