@@ -1,9 +1,10 @@
 class PRIMENUMBER {
     public static void main(String[] args) {
+        int i;
         int num = 10;
         int count = 0;
 
-        for (int i = 1; i <= num; i++) {
+        for ( i = 1; i <= num; i++) {
             if (num % i == 0) {
                 count++;
             }
