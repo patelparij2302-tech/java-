@@ -19,7 +19,7 @@ class stringpattern {
 
             
             for (int j = 0; j < i; j++) {
-                System.out.print(str.charAt(j));
+                System.out.print(str.charAt(j) + " ");
             }
 
             System.out.println();
